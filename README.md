@@ -19,6 +19,9 @@ I am an Aspiring Software Developer <img src="https://media.giphy.com/media/WUlp
 - :telescope: I'm currently learning javascript and python
 - :seedling: I'm the Community Member [Codedex](https://www.codedex.io/community)
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/safia-m-dad/)
+  
+---  
+## 🛠️ My Favourite tools
 
 ### 👩🏽‍💻 Programming languages
 <p>
@@ -29,7 +32,6 @@ I am an Aspiring Software Developer <img src="https://media.giphy.com/media/WUlp
 <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
 <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
 </p>
-<br/>
 
 ### 💻 Software and tools
 <p>
@@ -37,7 +39,6 @@ I am an Aspiring Software Developer <img src="https://media.giphy.com/media/WUlp
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
-<br/>
 
 ### 🧰 Databases and Cloud Hosting
 <p>
@@ -46,4 +47,5 @@ I am an Aspiring Software Developer <img src="https://media.giphy.com/media/WUlp
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a> 
     <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a>
 </p>
+
 
