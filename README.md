@@ -17,7 +17,7 @@
 I am an Aspiring Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - :telescope: I'm currently learning javascript and python
-- :seedling: I'm the Community Member [Codedex](https://www.codedex.io/community)
+- :seedling: I'm a Community Member at [Codedex](https://www.codedex.io/community)
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/safia-m-dad/)
   
 ---  
