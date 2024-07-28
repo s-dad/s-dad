@@ -13,7 +13,7 @@
 I am an Aspiring Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🔭 I’m currently working on building more projects for my resume
 - 🌱 I’m currently improving my skills in React.JS
-
+- 🌐 I also have some side projects on [CodePen](https://codepen.io/Safia-the-styleful)
 ---  
 
 ### 👩🏽‍💻 Programming languages
