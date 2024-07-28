@@ -11,13 +11,10 @@
 
 ### 👩🏽‍💻 About Me :
 I am an Aspiring Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🔭 I’m currently working on building more projects for my resume
+- 🌱 I’m currently improving my skills in React.JS
 
-- :telescope: I'm currently learning javascript and python
-- :seedling: I'm a Community Member at [Codedex](https://www.codedex.io/community)
-
-  
 ---  
-## 🛠️ My Favourite tools
 
 ### 👩🏽‍💻 Programming languages
 <p>
