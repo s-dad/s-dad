@@ -4,7 +4,7 @@
 <br/>
 
 ### 👩🏽‍💻 About Me :
-I am a Cloud Computing Student Software Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I am a Cloud Computing Student and a Software Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📌 Currently pursuing a B.S. in Cloud Computing 
 - 🌱 Learning and building cool projects sometimes😄
 - 🌐 I also have some side projects on [CodePen](https://codepen.io/Safia-the-styleful)
