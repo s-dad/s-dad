@@ -1,37 +1,34 @@
-<div id="header" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="600"/>
+<h1 align="center">Access Granted – Hello, I'm Safia! 👩‍💻</h1>
+
+<p align="center">
+  📍 <strong>Columbus, OH</strong> &nbsp;|&nbsp; ☁️ <strong>B.S. in Cloud Computing @ Franklin University</strong>
+</p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=s-dad&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&hide=stars&theme=dracula&locale=en&hide_border=false&cache_seconds=1800" height="150" alt="Safia's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=s-dad&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&cache_seconds=1800" height="150" alt="Safia's Top Languages" />
 </div>
-<br/>
 
-### 👩🏽‍💻 About Me :
-I am a Cloud Computing Student and a Software Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 📌 Currently pursuing a B.S. in Cloud Computing 
-- 🌱 Learning and building cool projects sometimes😄
-- 🌐 I also have some side projects on [CodePen](https://codepen.io/Safia-the-styleful)
----  
+<h3 align="center">💻 Tech Stack</h3>
 
-### 👩🏽‍💻 Programming languages
-<p>
-<a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-<a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor="></a>
-<a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-<a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-<a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</div>
+
+<h3 align="center">🚀 Projects & Goals</h3>
+
+<p align="center">
+  🎯 Currently working on <strong>SpendWise</strong> – a personal expense tracker<br>
+  🔒 Exploring cloud security<br>
+  ☁️ Passionate about automation, DevOps, and building real-world tools powered by cloud technologies<br>
+  🌠 I have some projects in <br>
+    <a href="https://codepen.io/Safia-the-styleful" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=CodePen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="CodePen" />
+  </a>
 </p>
-
-### 💻 Software and tools
-<p>
-    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-</p>
-
-### 🧰 Databases and Cloud Hosting
-<p>
-    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
-    <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a> 
-    <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white"></a>
-</p>
-
-
