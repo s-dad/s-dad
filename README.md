@@ -24,7 +24,7 @@
 <h3 align="center">🚀 Projects & Goals</h3>
 
 <p align="center">
-  🎯 Currently working on a personal projects<br>
+  🎯 Currently working on personal projects<br>
   🔒 Exploring cloud security<br>
   ☁️ Passionate about automation, DevOps, and building real-world tools powered by cloud technologies<br>
   🌠 I have some projects in <br>
