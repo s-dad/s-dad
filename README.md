@@ -1,7 +1,7 @@
 <h1 align="center">Access Granted – Hello, I'm Safia! 👩‍💻</h1>
 
 <p align="center">
-  📍 <strong>Columbus, OH</strong> &nbsp;|&nbsp; ☁️ <strong>B.S. in Cloud Computing @ Franklin University</strong>
+  📍 <strong>Columbus, OH</strong> &nbsp;|&nbsp; ☁️ <strong> Bachelor of Science in Cloud Computing @ Franklin University</strong>
 </p>
 
 <div align="center">
