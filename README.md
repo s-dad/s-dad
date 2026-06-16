@@ -9,9 +9,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=s-dad&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&cache_seconds=1800" height="150" alt="Safia's Top Languages" />
 </div>
 
-<h3 align="center">💻 Tech Stack</h3>
+<h3>💻 Tech Stack</h3>
 
-<div align="center">
+<div >
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -21,9 +21,12 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </div>
 
-<h3 align="center">🚀 Projects & Goals</h3>
+   [![Credly](https://img.shields.io/badge/Credly-Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/safia.m)
 
-<p align="center">
+
+<h3>🚀 Projects & Goals</h3>
+
+<p>
   🎯 Currently working on personal projects<br>
   🔒 Exploring cloud security<br>
   ☁️ Passionate about automation, DevOps, and building real-world tools powered by cloud technologies<br>
