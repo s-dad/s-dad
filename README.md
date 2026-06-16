@@ -1,6 +1,6 @@
-<h1 align="center">Access Granted – Hello, I'm Safia! 👩‍💻</h1>
+<h1 >Access Granted – Hello, I'm Safia! 👩‍💻</h1>
 
-<p align="center">☁️ <strong> Bachelor of Science in Cloud Computing @ Franklin University</strong></p>
+<p>☁️ <strong> Bachelor of Science in Cloud Computing @ Franklin University</strong></p>
 
 <div>
  
