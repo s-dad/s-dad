@@ -1,15 +1,13 @@
 <h1 align="center">Access Granted – Hello, I'm Safia! 👩‍💻</h1>
 
-<p align="center">
-  📍 <strong>Columbus, OH</strong> &nbsp;|&nbsp; ☁️ <strong> Bachelor of Science in Cloud Computing @ Franklin University</strong>
-</p>
+<p align="center">☁️ <strong> Bachelor of Science in Cloud Computing @ Franklin University</strong></p>
 
-<div align="center">
+<div>
  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=s-dad&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&cache_seconds=1800" height="150" alt="Safia's Top Languages" />
 </div>
 
-<h3>💻 Tech Stack</h3>
+
 
 <div >
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
