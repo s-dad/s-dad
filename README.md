@@ -21,9 +21,10 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </div>
 
-   [![Credly](https://img.shields.io/badge/Credly-Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/safia.m)
-
-
+[![AWS Skill Builder](https://img.shields.io/badge/AWS_Skill_Builder-Badges-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://skillsprofile.skillbuilder.aws/user/safia/certification-badges) 
+[![Credly](https://img.shields.io/badge/Credly-Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white)
+](https://www.credly.com/users/safia.m)
+   
 <h3>🚀 Projects & Goals</h3>
 
 <p>
