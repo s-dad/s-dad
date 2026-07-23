@@ -2,10 +2,7 @@
 
 <p>☁️ <strong> Bachelor of Science in Cloud Computing @ Franklin University</strong></p>
 
-<div>
- 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=s-dad&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&cache_seconds=1800" height="150" alt="Safia's Top Languages" />
-</div>
+
 
 
 
