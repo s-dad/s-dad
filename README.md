@@ -29,14 +29,19 @@
     <a href="https://codepen.io/Safia-the-styleful" target="_blank">
     <img src="https://img.shields.io/static/v1?message=CodePen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="CodePen" />
   </a>
+  
+### 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=s-dad&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=s-dad&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=s-dad&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+  
   <h3>⚡ Recent Projects:</h3>
 SpendWise — Full-stack serverless budget tracker on AWS (Lambda, DynamoDB, React, GitHub Actions)<br>
 docker-labs — Hands-on Docker labs covering image lifecycle, container management, and troubleshooting<br>               windows-admin-labs — Windows Server administration labs with AWS EC2, Active Directory, and PowerShell<br>
 </p>
 
-<h4>Let's Connect</h4>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-](https://www.linkedin.com/in/safia-m-mylinkin)
-
-
+### 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/safia-m-mylinkin) 
