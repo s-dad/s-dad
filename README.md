@@ -25,10 +25,7 @@
   🎯 Containerization and deployment pipelines with Docker<br>
   🔒 Infrastructure as code and automation tooling<br>
   ☁️ Exploring cloud security and hardening infrastructure<br>
-  🌠 I have some projects in <br>
-    <a href="https://codepen.io/Safia-the-styleful" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=CodePen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="CodePen" />
-  </a>
+
   
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=s-dad&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
