@@ -35,8 +35,7 @@
 
   
   <h3>⚡ Recent Projects:</h3>
-SpendWise — Full-stack serverless budget tracker on AWS (Lambda, DynamoDB, React, GitHub Actions)<br>
-docker-labs — Hands-on Docker labs covering image lifecycle, container management, and troubleshooting<br>               windows-admin-labs — Windows Server administration labs with AWS EC2, Active Directory, and PowerShell<br>
+CloudPaw - Pet adoption web app (HTML, CSS, JavaScript) with a GitHub Actions CI/CD pipeline. Building a Node.js backend and database, then migrating to AWS.<br>        
 </p>
 
 
