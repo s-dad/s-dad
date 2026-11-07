@@ -22,9 +22,11 @@
 
 <h3>🚀 Goals</h3>
 <p>
-  🎯 Containerization and deployment pipelines with Docker<br>
-  🔒 Infrastructure as code and automation tooling<br>
-  ☁️ Exploring cloud security and hardening infrastructure<br>
+☁️ Building reliable, scalable cloud infrastructure<br>
+⚙️ Automating deployments and operations with CI/CD and infrastructure as code<br>
+🔒 Designing systems with security in mind from the start<br>
+📈 Growing into a cloud operations, DevOps career<br>
+  
 
   
 ### 📊 GitHub Stats:
